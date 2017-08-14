@@ -1,0 +1,78 @@
+body {
+  background-color: #eae6d2;
+  font-family: "Lato", sans-serif;
+}
+
+.content-container {
+  border: 25px solid #d27765;
+  height: 550px;
+  width: 50%;
+  margin: 75px auto;
+}
+
+.border {
+  border: 10px solid rgba(156, 109, 124, 0.82);
+  height: 515px;
+  margin: 7px;
+}
+
+h1 {
+  color: #736081;
+  font-size: 55px;
+  margin: 12% 55px 0px 45px;
+  text-align: left;
+  padding-top: 20px;
+  font-weight: 100;
+  letter-spacing: 4px;
+}
+
+.overrated {
+  color: #736081;
+  font-weight: 900;
+  font-size: 55px;
+  margin: 0px 0px 65px 80px;
+  letter-spacing: 5px;
+  line-height: 0.5;
+}
+
+.its-just {
+  color: #736081;
+  font-size: 40px;
+  text-align: right;
+  padding: 10% 18% 0px 0px;
+  margin: 0;
+  line-height: 0;
+  font-weight: bold;
+}
+
+.tiny {
+  color: #9c6d7c;
+  font-size: 50px;
+  text-align: right;
+  margin: 22px 0 0 0;
+  padding: 0 14% 0 0;
+  letter-spacing: 5px;
+  line-height: 0.5;
+}
+
+.little {
+  color: #5d5065;
+  font-size: 55px;
+  text-align: right;
+  padding: 0 20% 0 0;
+  margin: -1px;
+  font-weight: 100;
+  line-height: 0.9;
+
+}
+
+.rocks {
+  color: #736081;
+  text-align: right;
+  font-size: 43px;
+  padding: 0 5% 0 0;
+  font-weight: 900;
+  line-height: 0.3;
+  letter-spacing: 2px;
+  margin: 0;
+}
